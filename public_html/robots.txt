@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /*/
+Disallow: /page/
+
+Sitemap: https://soulspice.tokyo/sitemap.xml
