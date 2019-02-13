@@ -136,7 +136,7 @@ require('./mail.php');
 			
 			<section class="row">
 				<div class="col-sm-6 col-md-4">
-					<div class="feature-box fadeInUp animated" data-wow-delay="0.3s">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
 						<div class="item"><img src="assets/img/NEWS-2018-08-19.jpeg" class="img_res fadeInUp animated"></div>
 						<p>2018/08/19</p>
 						<h2>町田踊り場建設さん主催のわっしょいに参加</h2>
@@ -144,7 +144,7 @@ require('./mail.php');
 					</div>
 				</div>
 				<div class="col-sm-6 col-md-4">
-					<div class="feature-box fadeInUp animated" data-wow-delay="0.3s">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
 						<div class="item"><img src="assets/img/NEWS-2018-05-27.jpg" class="img_res fadeInUp animated"></div>
 						<p>2018/05/27</p>
 						<h2>brustfloraがRUNUPダンスコンテスト2018 KANTO MAYで優勝!!</h2>
