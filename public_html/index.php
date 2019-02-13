@@ -1,5 +1,5 @@
 <?php
-require('./mail.php');
+require './mail.php';
 ?>
 
 <!DOCTYPE html>
@@ -133,9 +133,30 @@ require('./mail.php');
 				<span class="bb-bottom-right"></span>
 				</h1></div>
 			</section>
-			
+
 			<section class="row">
 				<div class="col-sm-6 col-md-4">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
+						<div class="item"><img src="assets/img/NEWS-2019-02-13-AquaFlesh.jpeg" class="img_res fadeInUp animated"></div>
+						<p>2019/02/03</p>
+						<h2>Aqua fleshがダンスコンテスト登竜門U12ビギナーチーム部門で優勝!!!</h2>
+						<p>2019年2月3日に行われたダンスコンテスト登竜門U12ビギナーチーム部門にて、12チームエントリーの中、
+soulspiceからtakuyaコーチプロデュースのAqua flesh(うた、こはる、りお)が見事優勝🏅</p>
+					</div>
+				</div>
+
+				<div class="col-sm-6 col-md-4">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
+						<div class="item"><img src="assets/img/NEWS-2019-02-13-FLAVA.jpeg" class="img_res fadeInUp animated"></div>
+						<p>2019/02/03</p>
+						<h2>FLAVAがダンスコンテスト登竜門U12ビギナーチーム部門で3位入賞!!!</h2>
+						<p>2019年2月3日に行われたダンスコンテスト登竜門U12ビギナーチーム部門にて、
+						yukkyコーチプロデュースのFLAVA(ななこ、みゆ)も3位入賞という成績をおさめました！！ 2チーム初コンテストで見事入賞。ここからまた頑張ってほしいです。
+						</p>
+					</div>
+				</div>
+
+			<div class="col-sm-6 col-md-4">
 					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
 						<div class="item"><img src="assets/img/NEWS-2018-08-19.jpeg" class="img_res fadeInUp animated"></div>
 						<p>2018/08/19</p>
@@ -143,6 +164,9 @@ require('./mail.php');
 						<p>町田市民ホールで行われた、町田踊り場建設さん主催の、わっしょいに、soulspiceも参加しました！いつもとは違う、照明に、大きなステージ、みんな楽しそうに踊っていました！お疲れ様でした💕</p>
 					</div>
 				</div>
+			</section>
+
+			<section class="row">
 				<div class="col-sm-6 col-md-4">
 					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
 						<div class="item"><img src="assets/img/NEWS-2018-05-27.jpg" class="img_res fadeInUp animated"></div>
@@ -166,12 +190,12 @@ require('./mail.php');
 						<h2>TokyoFootWorksのShinさん主催のイベントにて3年連続優勝!!</h2>
 						<p>TokyoFootWorksのShinさん主催のイベントにて、SOUL SPiCEが3年連続優勝しました！</p>
 						</div>
-				</div>				
+				</div>
 			</section>
 			<div class="clearfix"></div>
 		</section>
 	</section>
-	
+
 	<!-- ****************************** Gallery Section ************************** -->
 
 	<section id="gallery" class="block">
@@ -201,7 +225,7 @@ require('./mail.php');
 							子ども達はいつも次のイベントを楽しみにレッスンを受けています★<BR/></p>
 						</div>
 					</section>
-		
+
 		</section>
 	</section>
 
@@ -357,12 +381,12 @@ require('./mail.php');
 						<p><BR/></p>
 						<!-- 16:9 aspect ratio -->
 						<div class="embed-responsive embed-responsive-16by9 col-md-12">
-						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/videoseries?list=PLJgPtg4l-yVZ8FlF_mMu439KD6322ytoj&amp;ecver=1" frameborder="0" allow="autoplay; " allowfullscreen></iframe>						
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/videoseries?list=PLJgPtg4l-yVZ8FlF_mMu439KD6322ytoj&amp;ecver=1" frameborder="0" allow="autoplay; " allowfullscreen></iframe>
 						</div>
 				</section>
 			</section>
 		</section>
-		
+
 
 	<!-- ****************************** Contact Section ************************** -->
 
@@ -433,6 +457,6 @@ require('./mail.php');
 	<script src="assets/js/wow.min.js"></script>
 	<script src="assets/js/owl.carousel.js"></script>
 	<script src="assets/js/script.js"></script>
-	
+
 </body>
 </html>
