@@ -137,6 +137,44 @@ require './mail.php';
 			<section class="row">
 				<div class="col-sm-6 col-md-4">
 					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
+						<div class="item"><img src="assets/img/NEWS-2019-03-21.jpeg" class="img_res fadeInUp animated"></div>
+						<p>2019/3/21</p>
+						<h2>ダンスコンテスト2019runup marth kanto予選u12チームでFLAVA優勝!!Aqua fresh4位!!</h2>
+						<p>ダンスコンテスト2019runup marth kanto予選u12チーム部門、ソウルスパイス内のチーム、
+							FLAVA(nanako,miyu)優勝。Aqua fresh(uta,rio,koharu)4位。という成績をおさめました！
+							FLAVAは、2019年のファイナル権利を獲得しました！おめでとう！</p>
+					</div>
+				</div>
+
+			<div class="col-sm-6 col-md-4">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
+						<div class="item"><img src="assets/img/NEWS-2019-03-09.jpeg" class="img_res fadeInUp animated"></div>
+						<p>2018/03/09</p>
+						<h2>tokyofootworkzのshinさん主催の卒業イベントの中のコンテストにて、中高生部門soulspice4連覇!!soulspicegangは3位!!</h2>
+						<p>2019/3/9土曜に行われた、tokyofootworkzのshinさん主催の卒業イベントの中のコンテストにて、中高生部門soulspice4連覇!!
+							soulspicegangは、3位でした！
+							バトルでは、hiphop4年生以下で、こはる(4年)優勝。
+							さき(4年),れおや(1年)がベスト4。hiphop5年生以上で、ゆあん(中1)優勝。しおん(小6)準優勝。よりか(中2)、みゆ(中2)がベスト4。
+							house5年生以上では、みおな(高1)が優勝。ゆい(中2)が準優勝。うた(小6)がベスト4という成績をおさめました！</p>
+					</div>
+				</div>
+
+				<div class="col-sm-6 col-md-4">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
+						<div class="item"><img src="assets/img/NEWS-2019-02-24.jpeg" class="img_res fadeInUp animated"></div>
+						<p>2019/02/24</p>
+						<h2>ドラドラダンスコンテスト5rd予選soulspiceから、FLAVA(miyu,nanako)が3位入賞！！</h2>
+						<p>2019/2/24日曜に行われた
+								ドラドラダンスコンテスト5rd予選、u12部門にて、soulspiceから、FLAVA(miyu,nanako)が3位入賞！！ おめでとう！
+						</p>
+					</div>
+				</div>
+
+			</section>
+
+			<section class="row">
+				<div class="col-sm-6 col-md-4">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
 						<div class="item"><img src="assets/img/NEWS-2019-02-13-AquaFlesh.jpeg" class="img_res fadeInUp animated"></div>
 						<p>2019/02/03</p>
 						<h2>Aqua fleshがダンスコンテスト登竜門U12ビギナーチーム部門で優勝!!!</h2>
