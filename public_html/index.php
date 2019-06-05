@@ -135,6 +135,28 @@ require './mail.php';
 			</section>
 
 			<section class="row">
+			<div class="col-sm-6 col-md-6">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
+						<div class="item"><img src="assets/img/NEWS-2019-05-13.jpg" class="img_res fadeInUp animated"></div>
+						<p>2019/5/13</p>
+						<h2>毎年恒例小平グリーンフェスティバルに今年も参加！</h2>
+						<p>打ち上げから公園に移動して、最後までみんなとっても楽しそうでした</p>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-6">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
+						<div class="item"><img src="assets/img/NEWS-2019-05-05.jpg" class="img_res fadeInUp animated"></div>
+						<p>2019/05/05</p>
+						<h2>GWはsoulspice一泊二日のダンス合宿</h2>
+						<p>子供達は、一日6時間のレッスン、夜はBBQなどとっても楽しんでいました！この合宿を通しそれぞれが、ダンスだけではない部分、色々な事を感じ、考えたとおもいます！
+							 この経験が、今後のみんなの糧になりますように！そして、この合宿を行う中で、沢山の保護者の方々のご協力、サポート本当に感謝しかありません。
+							 二日間お疲れさまでした！ありがとうございました😊</p>
+					</div>
+				</div>
+
+			</section>
+
+			<section class="row">
 				<div class="col-sm-6 col-md-4">
 					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
 						<div class="item"><img src="assets/img/NEWS-2019-03-21.jpeg" class="img_res fadeInUp animated"></div>
