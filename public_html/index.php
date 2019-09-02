@@ -137,9 +137,36 @@ require './mail.php';
 			<section class="row">
 				<div class="col-sm-6 col-md-4">
 					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
+						<div class="item"><img src="assets/img/NEWS-2019-08-31.jpg" class="img_res fadeInUp animated"></div>
+						<p>2019/8/31</p>
+						<h2>TOP OF DANCE CONTEST U15部門にてFlavaが優勝</h2>
+						<p>TOP OF DANCE CONTEST U15部門にてFlava優勝🏆🏆 前回のリベンジが出来たようです！1月に行われるファイナル権を獲得！ファイナルも頑張って👍</p>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
+						<div class="item"><img src="assets/img/NEWS-2019-08-24.jpg" class="img_res fadeInUp animated"></div>
+						<p>2019/08/24</p>
+						<h2>スーパーキッズ東関東予選 u15部門 Flavaがダンスチャンネル賞を受賞！</h2>
+						<p>スーパーキッズ東関東予選u15部門に、Flavaが挑戦！！ 強豪チームだらけのレベル高い中、ダンスチャンネル賞をいただきました！おめでとう🎉更なる高みを目指して、ここからまた頑張っていこう！</p>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
+						<div class="item"><img src="assets/img/NEWS-2019-08-17.jpg" class="img_res fadeInUp animated"></div>
+						<p>2019/8/17</p>
+						<h2>Flavaが、VERSUSコンテストu15部門にて優勝</h2>
+						<p>昨日の悔しさをぶつけて、FlavaがVERSUSコンテストu15部門にて、見事、優勝🏆をいただきました！昨日を超える踊りが出来て、結果が付いてきたので、嬉しいね😊おめでとう🎊</p>
+					</div>
+				</div>
+			</section>
+
+			<section class="row">
+				<div class="col-sm-6 col-md-4">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
 						<div class="item"><img src="assets/img/NEWS-2019-08-16.jpg" class="img_res fadeInUp animated"></div>
 						<p>2019/8/16</p>
-						<h2>TOP OF THE DANCE CONTEST U15部門にてFlavaが4位入賞</h2>
+						<h2>TOP OF DANCE CONTEST U15部門にてFlavaが4位入賞</h2>
 						<p>同点の結果惜しくもファイナルを逃してしまったけど、またここから頑張って欲しいです！おめでとう！</p>
 					</div>
 				</div>
