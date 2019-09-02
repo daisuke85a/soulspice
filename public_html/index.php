@@ -137,6 +137,33 @@ require './mail.php';
 			<section class="row">
 				<div class="col-sm-6 col-md-4">
 					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
+						<div class="item"><img src="assets/img/NEWS-2019-08-16.jpg" class="img_res fadeInUp animated"></div>
+						<p>2019/8/16</p>
+						<h2>TOP OF THE DANCE CONTEST U15部門にてFlavaが4位入賞</h2>
+						<p>同点の結果惜しくもファイナルを逃してしまったけど、またここから頑張って欲しいです！おめでとう！</p>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
+						<div class="item"><img src="assets/img/NEWS-2019-08-01.jpg" class="img_res fadeInUp animated"></div>
+						<p>2019/8/1</p>
+						<h2>Aqua FreshがRUNUP DANCE CONTEST U12部門にて3位入賞</h2>
+						<p>8/1に行われた、RUNUP DANCE CONTEST、U12部門にて、takuyaコーチプロデュースチームAqua Freshが、3位入賞！！おめでとう🎉</p>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
+						<div class="item"><img src="assets/img/NEWS-2019-07-31.jpg" class="img_res fadeInUp animated"></div>
+						<p>2019/07/31</p>
+						<h2>FlavaがポップコーンダンスコンテストU15部門で、優勝</h2>
+						<p>本当におめでとう！ここからがスタート。このチームがどうなっていくのか、私も楽しみです。</p>
+					</div>
+				</div>
+			</section>
+
+			<section class="row">
+				<div class="col-sm-6 col-md-4">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
 						<div class="item"><img src="assets/img/NEWS-2019-07-30.jpg" class="img_res fadeInUp animated"></div>
 						<p>2019/7/30</p>
 						<h2>Flavaがアイスクリームダンスコンテストtokyo1回戦 u15部門にて準優勝！</h2>
