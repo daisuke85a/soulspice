@@ -135,7 +135,15 @@ require './mail.php';
 			</section>
 
 			<section class="row">
-			<div class="col-sm-6 col-md-6">
+				<div class="col-sm-6 col-md-4">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
+						<div class="item"><img src="assets/img/NEWS-2019-07-30.jpg" class="img_res fadeInUp animated"></div>
+						<p>2019/7/30</p>
+						<h2>Flavaがアイスクリームダンスコンテストtokyo1回戦 u15部門にて準優勝！</h2>
+						<p>4月からゆあん(中2)が加わり新たにスタートしたyukkyコーチプロデュースチーム、Flava(ななこ中1、みゆ中1、ゆあん中2)が、アイスクリームダンスコンテストtokyo1回戦に挑戦し、u15部門、準優勝</p>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4">
 					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
 						<div class="item"><img src="assets/img/NEWS-2019-05-13.jpg" class="img_res fadeInUp animated"></div>
 						<p>2019/5/13</p>
@@ -143,7 +151,7 @@ require './mail.php';
 						<p>打ち上げから公園に移動して、最後までみんなとっても楽しそうでした</p>
 					</div>
 				</div>
-				<div class="col-sm-6 col-md-6">
+				<div class="col-sm-6 col-md-4">
 					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
 						<div class="item"><img src="assets/img/NEWS-2019-05-05.jpg" class="img_res fadeInUp animated"></div>
 						<p>2019/05/05</p>
@@ -153,7 +161,6 @@ require './mail.php';
 							 二日間お疲れさまでした！ありがとうございました😊</p>
 					</div>
 				</div>
-
 			</section>
 
 			<section class="row">
