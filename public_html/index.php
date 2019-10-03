@@ -135,6 +135,25 @@ require './mail.php';
 			</section>
 
 			<section class="row">
+				<div class="col-sm-6 col-md-6">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
+						<div class="item"><img src="assets/img/NEWS-2019-09-21.jpg" class="img_res fadeInUp animated"></div>
+						<p>2019/9/21</p>
+						<h2>ダンスコンテストGLORYのU15部門Flava2位</h2>
+						<p>とてつもなく豪華なジャッジの方に見ていただけるだけではなくその場で全てのジャッジから得点や総評、個人感想もいただけてとても実のあるコンテストでした。関係者の方々、一緒に写真をとってくれた方々、ありがとうございました！そして子供達には挑戦できる場所がある事、親御さんの協力や応援してくれる仲間、この環境が当たり前ではないという事、謙虚さと感謝を忘れずにこれからも目標に向かって進んで行ってほしいです。</p>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-6">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
+						<div class="item"><img src="assets/img/NEWS-2019-09-15.jpg" class="img_res fadeInUp animated"></div>
+						<p>2019/9/15</p>
+						<h2>新宿での東京舞祭に出演</h2>
+						<p>受験でこの日が一旦ラストイベントの子、入って初めて出演する子、選抜に初めて選ばれた子、子供達👶1人1人にドラマがあってこの日の舞台を迎えたと思います。楽しい気持ちも嬉しい気持ちも悲しい気持ちも寂しい気持ちも悔しい気持ちも、みんなにとってはどれも大切な気持ちで、そんな気持ちが自分の糧となり全てが自分自身へと繋がっていくと思います！自分の子供のように、1人1人の成長を感じ、ちゃんと見てます！笑これからのみんながさらに楽しみになりました。お疲れさまでした！</p>
+					</div>
+				</div>
+			</section>
+
+			<section class="row">
 				<div class="col-sm-6 col-md-4">
 					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
 						<div class="item"><img src="assets/img/NEWS-2019-08-31.jpg" class="img_res fadeInUp animated"></div>
