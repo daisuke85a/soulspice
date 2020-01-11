@@ -135,7 +135,83 @@ require './mail.php';
 			</section>
 
 			<section class="row">
-				<div class="col-sm-6 col-md-6">
+				<div class="col-sm-6 col-md-4">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
+						<div class="item"><img src="assets/img/NEWS-2020-01-05.jpg" class="img_res fadeInUp animated"></div>
+						<p>2020/01/05</p>
+						<h2>birthday2019当日最終予選u15部門Flava3位入賞</h2>
+						<p>そのまま当日のファイナルへ進める事に！
+						ファイナルでは結果は残せませんでしたが、名だたる強豪ファイナリストと肩を並べて共に戦えた事、
+						自信に繋げて欲しいし、子供達👶👶👶の成長に繋がる日になったと思いました。
+						ファイナルでは、1zmと一緒でした。
+						共に同じ舞台に立てたこと、嬉しかったです！
+						まだまだ一緒に頑張ろう🔥🔥</p>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
+						<div class="item"><img src="assets/img/NEWS-2020-01-02.jpg" class="img_res fadeInUp animated"></div>
+						<p>2020/01/02</p>
+						<h2>topofthedanceコンテストのFINALu15部門にFravaが5位</h2>
+						<p>1/2 topofthedanceコンテストのFINALu15部門にFravaが出場。予選を勝ち抜いたファイナリスト達の中で、5位をいただきました。
+						この日自分達が感じた事を大切にし、次に繋げて行って欲しいと思います。
+						関係者の皆さん、ありがとうございました！
+						</p>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
+						<div class="item"><img src="assets/img/NEWS-2019-12-25.jpg" class="img_res fadeInUp animated"></div>
+						<p>2019/12/25</p>
+						<h2>スーパーキッズダンスコンテスト関東最終予選　中学生部門にて、Flava(yuan,nanako,miyu)が準優勝</h2>
+						<p>今期沢山スーパーキッズの予選に挑戦してきた3人。
+						スーパーキッズは、優勝のみがファイナルのステージに立てる狭き門で、この日は、優勝と同点で準優勝という結果に、クリスマスのこの日今までで1番嬉しく、1番悔しい結果となりました。
+						そして本日は、大阪へ遠征に行き大阪関西最終予選にも挑戦しましたが、結果を残せず。
+						いよいよ、残る予選は、最終予選のみとなりました。必ず決める気持ちで、最後まで挑戦しつづけます。頑張れ！Frava！！！</p>
+					</div>
+				</div>
+			</section>
+
+
+
+			<section class="row">
+				<div class="col-sm-6 col-md-4">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
+						<div class="item"><img src="assets/img/NEWS-2019-12-21.jpg" class="img_res fadeInUp animated"></div>
+						<p>2019/12/21</p>
+						<h2>runupdanceコンテストにてu12部門Aqua fresh 準優勝🥈</h2>
+						<p>soulspice family クリスマス会🎄チームナンバー、ダンスバトル、ビンゴ大会とっても楽しい一日でした！子供達の👶一年の成長を沢山垣間みる事が出来て、幸せでした😌✨
+						今年も1年ありがとう❤️保護者の皆様も、いつも沢山のサポートで支えていただき感謝しかありません。来年もみんなで頑張っていこう☺️</p>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
+						<div class="item"><img src="assets/img/NEWS-2019-12-14.jpg" class="img_res fadeInUp animated"></div>
+						<p>2019/12/14</p>
+						<h2>groovetravelダンスコンテストU15部門 Flava(yuan,nanako,miyu)優勝🏅</h2>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
+						<div class="item"><img src="assets/img/NEWS-2019-12-01.jpg" class="img_res fadeInUp animated"></div>
+						<p>2019/12/1</p>
+						<h2>コンテストgrandslam、u15部門 決勝大会にてFlavaが準優勝</h2>
+						<p>コンテストgrandslam、u15部門に、Flavaが挑戦。当日最終予選で、優勝し、そのまま決勝大会へ。準優勝をいただけました。3人ともおめでとう！！</p>
+					</div>
+				</div>
+			</section>
+
+			<section class="row">
+				<div class="col-sm-6 col-md-4">
+					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
+						<div class="item"><img src="assets/img/NEWS-2019-10-14.jpg" class="img_res fadeInUp animated"></div>
+						<p>2019/10/14</p>
+						<h2>runupdanceコンテストにてu12部門Aqua fresh 準優勝🥈</h2>
+						<p>おめでとう！諦めずにずっと挑戦してきての結果だったので本当に嬉しそうでした。
+						ここからまた頑張って行ってほしいです。また、soulspiceに通う、らいやも別チームでu12部門5位入賞。おめでとう🎉</p>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4">
 					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
 						<div class="item"><img src="assets/img/NEWS-2019-09-21.jpg" class="img_res fadeInUp animated"></div>
 						<p>2019/9/21</p>
@@ -143,7 +219,7 @@ require './mail.php';
 						<p>とてつもなく豪華なジャッジの方に見ていただけるだけではなくその場で全てのジャッジから得点や総評、個人感想もいただけてとても実のあるコンテストでした。関係者の方々、一緒に写真をとってくれた方々、ありがとうございました！そして子供達には挑戦できる場所がある事、親御さんの協力や応援してくれる仲間、この環境が当たり前ではないという事、謙虚さと感謝を忘れずにこれからも目標に向かって進んで行ってほしいです。</p>
 					</div>
 				</div>
-				<div class="col-sm-6 col-md-6">
+				<div class="col-sm-6 col-md-4">
 					<div class="feature-box wow fadeInUp animated" data-wow-delay="0.3s">
 						<div class="item"><img src="assets/img/NEWS-2019-09-15.jpg" class="img_res fadeInUp animated"></div>
 						<p>2019/9/15</p>
